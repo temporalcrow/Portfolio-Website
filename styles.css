@@ -13,7 +13,7 @@ body{
 }
 
 footer{
-    padding: 10px;
+    padding: 0;
 }
 
 .navbar {
@@ -546,7 +546,7 @@ footer{
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 100vh;
+    height: auto;
     padding: 5rem;
 }
 
